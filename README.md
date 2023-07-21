@@ -1,7 +1,12 @@
 
 <h1>Links de interes</h1>
-https://www.youtube.com/watch?v=L1ZSk-vPVKI
-https://www.markdownguide.org/basic-syntax/
+
+- https://www.youtube.com/watch?v=L1ZSk-vPVKI
+- https://www.markdownguide.org/basic-syntax/
+
+
+>>> https://caniuse.com/
+>>> quicktype.com
 
 
 # Variables
